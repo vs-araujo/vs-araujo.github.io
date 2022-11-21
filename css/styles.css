@@ -4,7 +4,7 @@
 }
 
 body {
-    background: url('../img/background.png');
+    background: #1B263B;
     font-family: Dosis;
     text-align: center;
     color: #E0E1DD;
@@ -12,7 +12,7 @@ body {
   }
 
 .about {
-  background-color: rgb(0, 0, 0, 60%);
+  background-color: #0D1B2A;
   margin: 25px auto;
   border-radius: 25px;
   max-width: 600px;
